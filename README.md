@@ -72,14 +72,14 @@ Tools: IntelliJ IDEA
 
 ## Manage Pets 
 
-# Add Pets 
+## Add Pets 
 ![image](https://github.com/user-attachments/assets/609d1226-89e1-4389-949c-1db7724fb2ac)
 
 
-# Update Pets
+## Update Pets
 ![image](https://github.com/user-attachments/assets/af66d53c-3967-4653-8d30-a2af2d581e35)
 
-# Delete Pets
+## Delete Pets
 ![image](https://github.com/user-attachments/assets/74a800b4-7a11-4754-a8dd-b0ca6e1d2bdf)
 
 ## Manage User
