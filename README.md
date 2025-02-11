@@ -80,7 +80,7 @@ Tools: IntelliJ IDEA
 ![image](https://github.com/user-attachments/assets/af66d53c-3967-4653-8d30-a2af2d581e35)
 
 ## Delete Pets
-![image](https://github.com/user-attachments/assets/74a800b4-7a11-4754-a8dd-b0ca6e1d2bdf)
+![image](https://github.com/user-attachments/assets/0c4335e8-0e03-4830-a7c1-ce1c917f2c99)
 
 ## Manage User
 ![image](https://github.com/user-attachments/assets/c115b7bb-89c3-4fc5-923e-0136994b446f)
