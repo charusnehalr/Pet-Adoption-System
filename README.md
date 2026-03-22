@@ -42,7 +42,7 @@ Dynamic Forms: The form panel dynamically updates based on the selected function
 
 ## Database Integration:
 
-The application interacts with a database (e.g., MySQL) using JDBC to store and retrieve pet and user information.
+The application interacts with a database (MySQL) using JDBC to store and retrieve pet and user information.
 
 Data Access Objects (DAOs): Separate DAO classes (PetsDAO, UserDAO and RegistrationDAO) handle database operations, ensuring clean and modular code.
 
